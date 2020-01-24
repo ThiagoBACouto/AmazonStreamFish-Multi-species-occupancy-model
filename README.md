@@ -1,0 +1,1 @@
+Multispecies single season occupancy model implemented in JAGS (code to run it in R) for fish communities of small streams of the Amazon Basin. More details here: https://www.nrcresearchpress.com/doi/full/10.1139/cjfas-2016-0388#.Xit4QmhKiUl
